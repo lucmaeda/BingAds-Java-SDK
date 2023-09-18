@@ -184,7 +184,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cxf.version>4.0.2</cxf.version>
-        <http.version>4.5.13</http.version>
+        <http.version>4.5.14</http.version>
     </properties>
     <artifactId>microsoft.bingads</artifactId>
 </project>

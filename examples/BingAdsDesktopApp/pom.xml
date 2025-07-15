@@ -14,7 +14,7 @@
         <dependency>
             <groupId>com.microsoft.bingads</groupId>
             <artifactId>microsoft.bingads</artifactId>
-            <version>13.0.17</version>
+            <version>13.0.23.2</version>
         </dependency>
         <dependency>
             <groupId>org.glassfish.metro</groupId>
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.12.0</version>
+            <version>3.18.0</version>
         </dependency>
         <dependency>
             <groupId>com.sun.xml.ws</groupId>
